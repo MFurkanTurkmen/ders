@@ -1,0 +1,19 @@
+package com.furkan.katmanMimarisi.utility.copy;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import com.busecnky.kasim21.katmanMimarisi.repository.entity.Ogrenci;
+import com.busecnky.kasim21.katmanMimarisi.repository.entity.Ogretmen;
+
+public class DataBase {
+
+	
+
+
+	    public static List<Ogrenci> ogrenciListesi= new ArrayList<>();
+	    public static List<Ogretmen> ogretmenListesi= new ArrayList<>();
+	
+	
+	
+}

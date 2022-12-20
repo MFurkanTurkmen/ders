@@ -1,0 +1,124 @@
+package com.furkan;
+
+import java.awt.EventQueue;
+
+import javax.swing.JFrame;
+import javax.swing.JButton;
+import javax.swing.JTextField;
+import java.awt.event.ActionListener;
+import java.awt.event.ActionEvent;
+import javax.swing.JList;
+import javax.swing.JScrollBar;
+import javax.swing.JCheckBox;
+import javax.swing.JLabel;
+import javax.swing.JComboBox;
+import javax.swing.DefaultComboBoxModel;
+
+public class SwingGuiMain {
+
+	private JFrame frame;
+	private JTextField tfsepet;
+
+	/**
+	 * Launch the application.
+	 */
+	public static void main(String[] args) {
+		EventQueue.invokeLater(new Runnable() {
+			public void run() {
+				try {
+					SwingGuiMain window = new SwingGuiMain();
+					window.frame.setVisible(true);
+				} catch (Exception e) {
+					e.printStackTrace();
+				}
+			}
+		});
+	}
+
+	/**
+	 * Create the application.
+	 */
+	public SwingGuiMain() {
+		initialize();
+	}
+
+	/**
+	 * Initialize the contents of the frame.
+	 */
+	private void initialize() {
+		frame = new JFrame();
+		frame.setBounds(100, 100, 599, 416);
+		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+		frame.getContentPane().setLayout(null);
+		
+		JButton btnsepeteekle = new JButton("sepete ekle");
+		btnsepeteekle.addActionListener(new ActionListener() {
+			public void actionPerformed(ActionEvent e) {
+				System.out.println("merhaba siyah ekran");
+				tfsepet.setText("hello swing");
+			}
+		});
+		btnsepeteekle.setBounds(6, 185, 117, 29);
+		frame.getContentPane().add(btnsepeteekle);
+		
+		JCheckBox chbmısır = new JCheckBox("Mısır");
+		chbmısır.setBounds(6, 47, 117, 23);
+		frame.getContentPane().add(chbmısır);
+		
+		JCheckBox chbmarul = new JCheckBox("Marul");
+		chbmarul.setBounds(6, 82, 117, 23);
+		frame.getContentPane().add(chbmarul);
+		
+		JCheckBox chbsogan = new JCheckBox("soğan");
+		chbsogan.setBounds(6, 117, 117, 23);
+		frame.getContentPane().add(chbsogan);
+		
+		JLabel lblmısır = new JLabel("10TL");
+		lblmısır.setBounds(146, 51, 61, 16);
+		frame.getContentPane().add(lblmısır);
+		
+		JLabel lblmarul = new JLabel("9TL");
+		lblmarul.setBounds(146, 86, 61, 16);
+		frame.getContentPane().add(lblmarul);
+		
+		JLabel lblsogan = new JLabel("12TL");
+		lblsogan.setBounds(146, 121, 61, 16);
+		frame.getContentPane().add(lblsogan);
+		
+		JLabel lblNewLabel_3 = new JLabel("kumpir       50TL");
+		lblNewLabel_3.setBounds(39, 19, 122, 16);
+		frame.getContentPane().add(lblNewLabel_3);
+		
+		JComboBox cbmısır = new JComboBox();
+		cbmısır.setModel(new DefaultComboBoxModel(new String[] {"1", "2", "3", "4", "5"}));
+		cbmısır.setBounds(207, 47, 52, 27);
+		frame.getContentPane().add(cbmısır);
+		
+		JComboBox cbmarul = new JComboBox();
+		cbmarul.setModel(new DefaultComboBoxModel(new String[] {"1", "2", "3", "4", "5"}));
+		cbmarul.setBounds(207, 82, 52, 27);
+		frame.getContentPane().add(cbmarul);
+		
+		JComboBox cbsogan = new JComboBox();
+		cbsogan.setModel(new DefaultComboBoxModel(new String[] {"1", "2", "3", "4", "5"}));
+		cbsogan.setBounds(207, 117, 52, 27);
+		frame.getContentPane().add(cbsogan);
+	
+		tfsepet.setText("50 TL");
+		tfsepet.setBounds(135, 185, 72, 26);
+		frame.getContentPane().add(tfsepet);
+		tfsepet.setColumns(10);
+		
+		
+		tfsepet = new JTextField();
+		tfsepet.addActionListener(new ActionListener() {
+			public void actionPerformed(ActionEvent e) {
+				tfsepet.setText("a");
+				
+				
+			}
+		});
+		
+		
+	}
+}
