@@ -380,3 +380,932 @@
 2022-12-20 15:08:11,646 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2022-12-20 15:08:11,649 [Worker-1: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
 2022-12-20 15:08:11,650 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-20 17:10:57,496 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-12-20 18:09:30,188 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-12-20 18:21:27,578 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-12-20 18:30:38,697 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-12-20 18:38:13,787 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-12-20 18:42:47,056 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-12-20 18:44:30,269 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-12-20 18:52:25,695 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-12-20 18:53:19,579 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-12-20 18:54:10,228 [Worker-0: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-20 18:54:10,232 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-20 18:54:10,234 [Worker-0: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-20 18:54:10,234 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-20 18:57:43,221 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-12-20 18:57:44,896 [Worker-10: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-20 18:57:44,898 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-20 18:57:44,900 [Worker-10: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-20 18:57:44,900 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-22 19:22:52,249 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-12-22 19:22:53,797 [Worker-6: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-22 19:22:53,799 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-22 19:22:53,801 [Worker-6: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-22 19:22:53,801 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-22 21:03:46,738 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-12-22 21:03:48,257 [Worker-4: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-22 21:03:48,260 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-22 21:03:48,261 [Worker-4: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-22 21:03:48,262 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-22 21:04:21,155 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-12-22 21:15:11,201 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-22 21:15:11,205 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-22 21:15:11,207 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-22 21:15:11,207 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-23 00:31:49,262 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-12-23 00:41:23,331 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-23 00:41:23,335 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-23 00:41:23,336 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-23 00:41:23,336 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-23 00:48:39,973 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-12-23 00:48:40,915 [Worker-0: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-23 00:48:40,917 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-23 00:48:40,919 [Worker-0: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-23 00:48:40,919 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-23 01:02:32,840 [Worker-27: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.furkanturkmen:gs_30_maven_15_12_2022_sha256hash:0.0.1-SNAPSHOT @ /Users/furkanturkmen/Desktop/Repository/eclipse/ders/gs_30_maven_15i19uarasi_12_2022_sha256hash_/pom.xml.
+2022-12-23 01:02:32,874 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-23 01:02:32,875 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-23 01:02:32,876 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-23 01:02:32,876 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-23 01:02:33,926 [Worker-19: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-23 01:02:33,928 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-23 01:02:33,930 [Worker-19: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-23 01:02:33,930 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-24 01:51:17,066 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-12-24 02:17:52,670 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-12-24 16:33:32,937 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-12-24 16:33:48,135 [Worker-15: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-24 16:33:48,139 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-24 16:33:48,141 [Worker-15: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-24 16:33:48,141 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-26 00:54:59,762 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-12-27 00:34:02,135 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-12-28 20:46:17,270 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-12-28 21:06:16,677 [Worker-25: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.busecnky:079_hibernate_projesi-1:0.0.1-SNAPSHOT @ /Users/furkanturkmen/Downloads/079_hibernate_projesi-1/pom.xml.
+2022-12-28 21:06:17,311 [Worker-25: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/5.6.10.Final/hibernate-core-5.6.10.Final.pom
+2022-12-28 21:06:17,411 [Worker-25: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/5.6.10.Final/hibernate-core-5.6.10.Final.pom
+2022-12-28 21:06:17,472 [Worker-25: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging/3.4.3.Final/jboss-logging-3.4.3.Final.pom
+2022-12-28 21:06:17,536 [Worker-25: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging/3.4.3.Final/jboss-logging-3.4.3.Final.pom
+2022-12-28 21:06:17,595 [Worker-25: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/jboss-parent/39/jboss-parent-39.pom
+2022-12-28 21:06:17,720 [Worker-25: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/jboss-parent/39/jboss-parent-39.pom
+2022-12-28 21:06:17,799 [Worker-25: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/junit-bom/5.8.2/junit-bom-5.8.2.pom
+2022-12-28 21:06:17,856 [Worker-25: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/junit-bom/5.8.2/junit-bom-5.8.2.pom
+2022-12-28 21:06:17,912 [Worker-25: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/persistence/javax.persistence-api/2.2/javax.persistence-api-2.2.pom
+2022-12-28 21:06:17,966 [Worker-25: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/persistence/javax.persistence-api/2.2/javax.persistence-api-2.2.pom
+2022-12-28 21:06:18,028 [Worker-25: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/java/jvnet-parent/5/jvnet-parent-5.pom
+2022-12-28 21:06:18,085 [Worker-25: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/java/jvnet-parent/5/jvnet-parent-5.pom
+2022-12-28 21:06:18,142 [Worker-25: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy/1.12.9/byte-buddy-1.12.9.pom
+2022-12-28 21:06:18,196 [Worker-25: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy/1.12.9/byte-buddy-1.12.9.pom
+2022-12-28 21:06:18,256 [Worker-25: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy-parent/1.12.9/byte-buddy-parent-1.12.9.pom
+2022-12-28 21:06:18,319 [Worker-25: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy-parent/1.12.9/byte-buddy-parent-1.12.9.pom
+2022-12-28 21:06:18,379 [Worker-25: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/spec/javax/transaction/jboss-transaction-api_1.2_spec/1.1.1.Final/jboss-transaction-api_1.2_spec-1.1.1.Final.pom
+2022-12-28 21:06:18,433 [Worker-25: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/spec/javax/transaction/jboss-transaction-api_1.2_spec/1.1.1.Final/jboss-transaction-api_1.2_spec-1.1.1.Final.pom
+2022-12-28 21:06:18,491 [Worker-25: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/jboss-parent/25/jboss-parent-25.pom
+2022-12-28 21:06:18,547 [Worker-25: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/jboss-parent/25/jboss-parent-25.pom
+2022-12-28 21:06:18,602 [Worker-25: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/jandex/2.4.2.Final/jandex-2.4.2.Final.pom
+2022-12-28 21:06:18,655 [Worker-25: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/jandex/2.4.2.Final/jandex-2.4.2.Final.pom
+2022-12-28 21:06:18,713 [Worker-25: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/activation/javax.activation-api/1.2.0/javax.activation-api-1.2.0.pom
+2022-12-28 21:06:18,766 [Worker-25: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/activation/javax.activation-api/1.2.0/javax.activation-api-1.2.0.pom
+2022-12-28 21:06:18,821 [Worker-25: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/activation/all/1.2.0/all-1.2.0.pom
+2022-12-28 21:06:18,879 [Worker-25: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/activation/all/1.2.0/all-1.2.0.pom
+2022-12-28 21:06:18,932 [Worker-25: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/java/jvnet-parent/1/jvnet-parent-1.pom
+2022-12-28 21:06:18,987 [Worker-25: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/java/jvnet-parent/1/jvnet-parent-1.pom
+2022-12-28 21:06:19,043 [Worker-25: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/common/hibernate-commons-annotations/5.1.2.Final/hibernate-commons-annotations-5.1.2.Final.pom
+2022-12-28 21:06:19,097 [Worker-25: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/common/hibernate-commons-annotations/5.1.2.Final/hibernate-commons-annotations-5.1.2.Final.pom
+2022-12-28 21:06:19,154 [Worker-25: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging/3.3.2.Final/jboss-logging-3.3.2.Final.pom
+2022-12-28 21:06:19,211 [Worker-25: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging/3.3.2.Final/jboss-logging-3.3.2.Final.pom
+2022-12-28 21:06:19,274 [Worker-25: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/jboss-parent/15/jboss-parent-15.pom
+2022-12-28 21:06:19,347 [Worker-25: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/jboss-parent/15/jboss-parent-15.pom
+2022-12-28 21:06:19,404 [Worker-25: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/xml/bind/jaxb-api/2.3.1/jaxb-api-2.3.1.pom
+2022-12-28 21:06:19,464 [Worker-25: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/xml/bind/jaxb-api/2.3.1/jaxb-api-2.3.1.pom
+2022-12-28 21:06:19,522 [Worker-25: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/xml/bind/jaxb-api-parent/2.3.1/jaxb-api-parent-2.3.1.pom
+2022-12-28 21:06:19,576 [Worker-25: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/xml/bind/jaxb-api-parent/2.3.1/jaxb-api-parent-2.3.1.pom
+2022-12-28 21:06:19,634 [Worker-25: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jaxb/jaxb-runtime/2.3.1/jaxb-runtime-2.3.1.pom
+2022-12-28 21:06:19,690 [Worker-25: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jaxb/jaxb-runtime/2.3.1/jaxb-runtime-2.3.1.pom
+2022-12-28 21:06:19,746 [Worker-25: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/xml/bind/mvn/jaxb-runtime-parent/2.3.1/jaxb-runtime-parent-2.3.1.pom
+2022-12-28 21:06:19,800 [Worker-25: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/xml/bind/mvn/jaxb-runtime-parent/2.3.1/jaxb-runtime-parent-2.3.1.pom
+2022-12-28 21:06:19,860 [Worker-25: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/xml/bind/mvn/jaxb-parent/2.3.1/jaxb-parent-2.3.1.pom
+2022-12-28 21:06:19,922 [Worker-25: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/xml/bind/mvn/jaxb-parent/2.3.1/jaxb-parent-2.3.1.pom
+2022-12-28 21:06:19,978 [Worker-25: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/xml/bind/jaxb-bom-ext/2.3.1/jaxb-bom-ext-2.3.1.pom
+2022-12-28 21:06:20,031 [Worker-25: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/xml/bind/jaxb-bom-ext/2.3.1/jaxb-bom-ext-2.3.1.pom
+2022-12-28 21:06:20,087 [Worker-25: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jaxb/jaxb-bom/2.3.1/jaxb-bom-2.3.1.pom
+2022-12-28 21:06:20,141 [Worker-25: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jaxb/jaxb-bom/2.3.1/jaxb-bom-2.3.1.pom
+2022-12-28 21:06:20,194 [Worker-25: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jaxb/txw2/2.3.1/txw2-2.3.1.pom
+2022-12-28 21:06:20,247 [Worker-25: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jaxb/txw2/2.3.1/txw2-2.3.1.pom
+2022-12-28 21:06:20,300 [Worker-25: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/xml/bind/mvn/jaxb-txw-parent/2.3.1/jaxb-txw-parent-2.3.1.pom
+2022-12-28 21:06:20,353 [Worker-25: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/xml/bind/mvn/jaxb-txw-parent/2.3.1/jaxb-txw-parent-2.3.1.pom
+2022-12-28 21:06:20,408 [Worker-25: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/istack/istack-commons-runtime/3.0.7/istack-commons-runtime-3.0.7.pom
+2022-12-28 21:06:20,463 [Worker-25: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/istack/istack-commons-runtime/3.0.7/istack-commons-runtime-3.0.7.pom
+2022-12-28 21:06:20,520 [Worker-25: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/istack/istack-commons/3.0.7/istack-commons-3.0.7.pom
+2022-12-28 21:06:20,580 [Worker-25: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/istack/istack-commons/3.0.7/istack-commons-3.0.7.pom
+2022-12-28 21:06:20,641 [Worker-25: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jvnet/staxex/stax-ex/1.8/stax-ex-1.8.pom
+2022-12-28 21:06:20,698 [Worker-25: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jvnet/staxex/stax-ex/1.8/stax-ex-1.8.pom
+2022-12-28 21:06:20,758 [Worker-25: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/xml/fastinfoset/FastInfoset/1.2.15/FastInfoset-1.2.15.pom
+2022-12-28 21:06:20,814 [Worker-25: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/xml/fastinfoset/FastInfoset/1.2.15/FastInfoset-1.2.15.pom
+2022-12-28 21:06:20,877 [Worker-25: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/xml/fastinfoset/fastinfoset-project/1.2.15/fastinfoset-project-1.2.15.pom
+2022-12-28 21:06:20,935 [Worker-25: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/xml/fastinfoset/fastinfoset-project/1.2.15/fastinfoset-project-1.2.15.pom
+2022-12-28 21:06:21,000 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging/3.4.3.Final/jboss-logging-3.4.3.Final.jar
+2022-12-28 21:06:21,015 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/5.6.10.Final/hibernate-core-5.6.10.Final.jar
+2022-12-28 21:06:21,103 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy/1.12.9/byte-buddy-1.12.9.jar
+2022-12-28 21:06:21,103 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/persistence/javax.persistence-api/2.2/javax.persistence-api-2.2.jar
+2022-12-28 21:06:21,103 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/spec/javax/transaction/jboss-transaction-api_1.2_spec/1.1.1.Final/jboss-transaction-api_1.2_spec-1.1.1.Final.jar
+2022-12-28 21:06:21,200 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging/3.4.3.Final/jboss-logging-3.4.3.Final.jar
+2022-12-28 21:06:21,307 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/spec/javax/transaction/jboss-transaction-api_1.2_spec/1.1.1.Final/jboss-transaction-api_1.2_spec-1.1.1.Final.jar
+2022-12-28 21:06:21,351 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/jandex/2.4.2.Final/jandex-2.4.2.Final.jar
+2022-12-28 21:06:21,412 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/persistence/javax.persistence-api/2.2/javax.persistence-api-2.2.jar
+2022-12-28 21:06:21,498 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/activation/javax.activation-api/1.2.0/javax.activation-api-1.2.0.jar
+2022-12-28 21:06:21,639 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/common/hibernate-commons-annotations/5.1.2.Final/hibernate-commons-annotations-5.1.2.Final.jar
+2022-12-28 21:06:21,673 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/jandex/2.4.2.Final/jandex-2.4.2.Final.jar
+2022-12-28 21:06:21,746 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/activation/javax.activation-api/1.2.0/javax.activation-api-1.2.0.jar
+2022-12-28 21:06:21,884 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/common/hibernate-commons-annotations/5.1.2.Final/hibernate-commons-annotations-5.1.2.Final.jar
+2022-12-28 21:06:21,906 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/xml/bind/jaxb-api/2.3.1/jaxb-api-2.3.1.jar
+2022-12-28 21:06:21,978 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jaxb/jaxb-runtime/2.3.1/jaxb-runtime-2.3.1.jar
+2022-12-28 21:06:22,118 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jaxb/txw2/2.3.1/txw2-2.3.1.jar
+2022-12-28 21:06:22,196 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/xml/bind/jaxb-api/2.3.1/jaxb-api-2.3.1.jar
+2022-12-28 21:06:22,407 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jaxb/txw2/2.3.1/txw2-2.3.1.jar
+2022-12-28 21:06:22,440 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/istack/istack-commons-runtime/3.0.7/istack-commons-runtime-3.0.7.jar
+2022-12-28 21:06:22,624 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jvnet/staxex/stax-ex/1.8/stax-ex-1.8.jar
+2022-12-28 21:06:22,666 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/istack/istack-commons-runtime/3.0.7/istack-commons-runtime-3.0.7.jar
+2022-12-28 21:06:22,784 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jaxb/jaxb-runtime/2.3.1/jaxb-runtime-2.3.1.jar
+2022-12-28 21:06:22,853 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jvnet/staxex/stax-ex/1.8/stax-ex-1.8.jar
+2022-12-28 21:06:22,873 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/xml/fastinfoset/FastInfoset/1.2.15/FastInfoset-1.2.15.jar
+2022-12-28 21:06:22,970 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy/1.12.9/byte-buddy-1.12.9.jar
+2022-12-28 21:06:23,179 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/xml/fastinfoset/FastInfoset/1.2.15/FastInfoset-1.2.15.jar
+2022-12-28 21:06:23,388 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/5.6.10.Final/hibernate-core-5.6.10.Final.jar
+2022-12-28 21:06:23,464 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-28 21:06:23,467 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-28 21:06:23,468 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-28 21:06:23,468 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-28 21:06:23,694 [Worker-24: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-28 21:06:23,695 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-28 21:06:23,696 [Worker-24: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-28 21:06:23,697 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-28 21:06:24,393 [Worker-24: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.busecnky:079_hibernate_projesi-1:0.0.1-SNAPSHOT @ /Users/furkanturkmen/Downloads/079_hibernate_projesi-1/pom.xml.
+2022-12-28 21:06:24,623 [Worker-28: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/5.6.10.Final/hibernate-core-5.6.10.Final-sources.jar
+2022-12-28 21:06:24,730 [Worker-29: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-28 21:06:24,731 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-28 21:06:24,732 [Worker-29: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-28 21:06:24,732 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-28 21:06:25,647 [Worker-28: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/5.6.10.Final/hibernate-core-5.6.10.Final-sources.jar
+2022-12-28 21:06:25,649 [Worker-28: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.hibernate:hibernate-core:5.6.10.Final
+2022-12-28 21:06:25,862 [Worker-28: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging/3.4.3.Final/jboss-logging-3.4.3.Final-sources.jar
+2022-12-28 21:06:25,964 [Worker-28: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging/3.4.3.Final/jboss-logging-3.4.3.Final-sources.jar
+2022-12-28 21:06:25,965 [Worker-28: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.jboss.logging:jboss-logging:3.4.3.Final
+2022-12-28 21:06:26,172 [Worker-28: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/persistence/javax.persistence-api/2.2/javax.persistence-api-2.2-sources.jar
+2022-12-28 21:06:26,353 [Worker-28: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/persistence/javax.persistence-api/2.2/javax.persistence-api-2.2-sources.jar
+2022-12-28 21:06:26,354 [Worker-28: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for javax.persistence:javax.persistence-api:2.2
+2022-12-28 21:06:26,764 [Worker-28: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy/1.12.9/byte-buddy-1.12.9-sources.jar
+2022-12-28 21:06:27,165 [Worker-28: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy/1.12.9/byte-buddy-1.12.9-sources.jar
+2022-12-28 21:06:27,167 [Worker-28: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for net.bytebuddy:byte-buddy:1.12.9
+2022-12-28 21:06:27,373 [Worker-28: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/antlr/antlr/2.7.7/antlr-2.7.7-sources.jar
+2022-12-28 21:06:27,382 [Worker-28: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for antlr:antlr:2.7.7
+org.eclipse.core.runtime.CoreException: Could not resolve artifact antlr:antlr:jar:sources:2.7.7
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$6(MavenImpl.java:587)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:364)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:227)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:213)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:556)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:541)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:308)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:282)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:252)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:220)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:364)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:274)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:213)
+	at org.eclipse.m2e.core.embedder.IMaven.execute(IMaven.java:294)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2022-12-28 21:06:27,585 [Worker-28: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/spec/javax/transaction/jboss-transaction-api_1.2_spec/1.1.1.Final/jboss-transaction-api_1.2_spec-1.1.1.Final-sources.jar
+2022-12-28 21:06:27,680 [Worker-28: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/spec/javax/transaction/jboss-transaction-api_1.2_spec/1.1.1.Final/jboss-transaction-api_1.2_spec-1.1.1.Final-sources.jar
+2022-12-28 21:06:27,683 [Worker-28: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.jboss.spec.javax.transaction:jboss-transaction-api_1.2_spec:1.1.1.Final
+2022-12-28 21:06:27,885 [Worker-28: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/jandex/2.4.2.Final/jandex-2.4.2.Final-sources.jar
+2022-12-28 21:06:28,056 [Worker-28: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/jandex/2.4.2.Final/jandex-2.4.2.Final-sources.jar
+2022-12-28 21:06:28,059 [Worker-28: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.jboss:jandex:2.4.2.Final
+2022-12-28 21:06:28,274 [Worker-28: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/classmate/1.5.1/classmate-1.5.1-sources.jar
+2022-12-28 21:06:28,378 [Worker-28: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/classmate/1.5.1/classmate-1.5.1-sources.jar
+2022-12-28 21:06:28,381 [Worker-28: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml:classmate:1.5.1
+2022-12-28 21:06:28,580 [Worker-28: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/activation/javax.activation-api/1.2.0/javax.activation-api-1.2.0-sources.jar
+2022-12-28 21:06:28,692 [Worker-28: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/activation/javax.activation-api/1.2.0/javax.activation-api-1.2.0-sources.jar
+2022-12-28 21:06:28,693 [Worker-28: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for javax.activation:javax.activation-api:1.2.0
+2022-12-28 21:06:28,892 [Worker-28: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/common/hibernate-commons-annotations/5.1.2.Final/hibernate-commons-annotations-5.1.2.Final-sources.jar
+2022-12-28 21:06:28,993 [Worker-28: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/common/hibernate-commons-annotations/5.1.2.Final/hibernate-commons-annotations-5.1.2.Final-sources.jar
+2022-12-28 21:06:28,995 [Worker-28: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.hibernate.common:hibernate-commons-annotations:5.1.2.Final
+2022-12-28 21:06:29,202 [Worker-28: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/xml/bind/jaxb-api/2.3.1/jaxb-api-2.3.1-sources.jar
+2022-12-28 21:06:29,382 [Worker-28: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/xml/bind/jaxb-api/2.3.1/jaxb-api-2.3.1-sources.jar
+2022-12-28 21:06:29,382 [Worker-28: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for javax.xml.bind:jaxb-api:2.3.1
+2022-12-28 21:06:29,587 [Worker-28: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jaxb/jaxb-runtime/2.3.1/jaxb-runtime-2.3.1-sources.jar
+2022-12-28 21:06:29,949 [Worker-28: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jaxb/jaxb-runtime/2.3.1/jaxb-runtime-2.3.1-sources.jar
+2022-12-28 21:06:29,950 [Worker-28: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.glassfish.jaxb:jaxb-runtime:2.3.1
+2022-12-28 21:06:30,156 [Worker-28: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jaxb/txw2/2.3.1/txw2-2.3.1-sources.jar
+2022-12-28 21:06:30,276 [Worker-28: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jaxb/txw2/2.3.1/txw2-2.3.1-sources.jar
+2022-12-28 21:06:30,277 [Worker-28: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.glassfish.jaxb:txw2:2.3.1
+2022-12-28 21:06:30,477 [Worker-28: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/istack/istack-commons-runtime/3.0.7/istack-commons-runtime-3.0.7-sources.jar
+2022-12-28 21:06:30,572 [Worker-28: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/istack/istack-commons-runtime/3.0.7/istack-commons-runtime-3.0.7-sources.jar
+2022-12-28 21:06:30,573 [Worker-28: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.sun.istack:istack-commons-runtime:3.0.7
+2022-12-28 21:06:30,772 [Worker-28: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jvnet/staxex/stax-ex/1.8/stax-ex-1.8-sources.jar
+2022-12-28 21:06:30,869 [Worker-28: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jvnet/staxex/stax-ex/1.8/stax-ex-1.8-sources.jar
+2022-12-28 21:06:30,870 [Worker-28: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.jvnet.staxex:stax-ex:1.8
+2022-12-28 21:06:31,071 [Worker-28: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/xml/fastinfoset/FastInfoset/1.2.15/FastInfoset-1.2.15-sources.jar
+2022-12-28 21:06:31,241 [Worker-28: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/xml/fastinfoset/FastInfoset/1.2.15/FastInfoset-1.2.15-sources.jar
+2022-12-28 21:06:31,242 [Worker-28: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.sun.xml.fastinfoset:FastInfoset:1.2.15
+2022-12-28 21:06:31,372 [Worker-29: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-28 21:06:31,372 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-28 21:06:31,373 [Worker-29: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-28 21:06:31,374 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-28 21:06:37,851 [Worker-24: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.december27:080_hibernate_projesi-2:0.0.1-SNAPSHOT @ /Users/furkanturkmen/Downloads/080_hibernate_projesi-2/pom.xml.
+2022-12-28 21:06:37,881 [Worker-24: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-28 21:06:37,882 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-28 21:06:37,883 [Worker-24: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-28 21:06:37,883 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-28 21:06:38,716 [Worker-28: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.december27:080_hibernate_projesi-2:0.0.1-SNAPSHOT @ /Users/furkanturkmen/Downloads/080_hibernate_projesi-2/pom.xml.
+2022-12-28 21:06:39,056 [Worker-28: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-28 21:06:39,057 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-28 21:06:39,058 [Worker-28: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-28 21:06:39,059 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-28 21:06:39,092 [Worker-25: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/antlr/antlr/2.7.7/antlr-2.7.7-javadoc.jar
+2022-12-28 21:06:39,093 [Worker-25: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download javadoc for antlr:antlr:2.7.7
+org.eclipse.core.runtime.CoreException: Could not resolve artifact antlr:antlr:jar:javadoc:2.7.7
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$6(MavenImpl.java:587)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:364)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:227)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:213)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:556)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:541)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:308)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:294)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:252)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:220)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:364)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:274)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:213)
+	at org.eclipse.m2e.core.embedder.IMaven.execute(IMaven.java:294)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2022-12-28 21:09:05,850 [Worker-31: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-28 21:09:05,862 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-28 21:09:05,864 [Worker-31: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-28 21:09:05,864 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-28 21:15:08,035 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-12-28 21:16:13,026 [Worker-12: Launching Main (3)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-28 21:16:13,029 [Worker-12: Launching Main (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-28 21:16:13,031 [Worker-12: Launching Main (3)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-28 21:16:13,031 [Worker-12: Launching Main (3)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-28 21:20:40,632 [Worker-8: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-28 21:20:40,634 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-28 21:20:40,636 [Worker-8: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-28 21:20:40,636 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-28 21:20:41,118 [Worker-8: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-28 21:20:41,118 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-28 21:20:41,119 [Worker-8: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-28 21:20:41,120 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-28 21:20:45,267 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-28 21:20:45,268 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-28 21:20:45,268 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-28 21:20:45,269 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-28 21:22:22,936 [Worker-22: Launching App] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-28 21:22:22,944 [Worker-22: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-28 21:22:22,945 [Worker-22: Launching App] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-28 21:22:22,946 [Worker-22: Launching App] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-28 21:30:53,424 [Worker-11: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.december22:CarDealer:0.0.1-SNAPSHOT @ /Users/furkanturkmen/Downloads/Oglen_ApplicationCarDealer/pom.xml.
+2022-12-28 21:30:53,444 [Worker-11: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-28 21:30:53,445 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-28 21:30:53,448 [Worker-11: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-28 21:30:53,449 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-28 21:30:53,588 [Worker-20: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-28 21:30:53,589 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-28 21:30:53,590 [Worker-20: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-28 21:30:53,590 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-28 21:30:54,199 [Worker-23: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.december22:CarDealer:0.0.1-SNAPSHOT @ /Users/furkanturkmen/Downloads/Oglen_ApplicationCarDealer/pom.xml.
+2022-12-28 21:30:54,602 [Worker-29: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-28 21:30:54,602 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-28 21:30:54,603 [Worker-29: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-28 21:30:54,604 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-28 21:31:06,122 [Worker-11: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.december26:Oglen_HibernateExample:0.0.1-SNAPSHOT @ /Users/furkanturkmen/Downloads/Oglen_HibernateExample/pom.xml.
+2022-12-28 21:31:06,173 [Worker-11: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-28 21:31:06,173 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-28 21:31:06,175 [Worker-11: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-28 21:31:06,175 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-28 21:31:06,330 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-28 21:31:06,331 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-28 21:31:06,332 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-28 21:31:06,332 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-28 21:31:06,947 [Worker-11: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.december26:Oglen_HibernateExample:0.0.1-SNAPSHOT @ /Users/furkanturkmen/Downloads/Oglen_HibernateExample/pom.xml.
+2022-12-28 21:31:07,354 [Worker-20: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-28 21:31:07,355 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-28 21:31:07,357 [Worker-20: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-28 21:31:07,357 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-28 21:32:29,827 [Worker-29: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-28 21:32:29,828 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-28 21:32:29,830 [Worker-29: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-28 21:32:29,830 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-28 21:34:33,840 [Worker-29: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.december22:CarDealer:0.0.1-SNAPSHOT @ /Users/furkanturkmen/Downloads/Oglen_ApplicationCarDealer/pom.xml.
+2022-12-28 21:34:33,870 [Worker-29: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/079_hibernate_projesi-1: com.busecnky:079_hibernate_projesi-1:0.0.1-SNAPSHOT with classifier  to /079_hibernate_projesi-1/target/classes
+2022-12-28 21:34:33,887 [Worker-29: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-28 21:34:33,888 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-28 21:34:33,888 [Worker-29: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-28 21:34:33,889 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-28 21:34:35,039 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-28 21:34:35,039 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-28 21:34:35,041 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-28 21:34:35,041 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-28 21:35:04,674 [Worker-23: Launching Manager] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-28 21:35:04,675 [Worker-23: Launching Manager] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-28 21:35:04,676 [Worker-23: Launching Manager] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-28 21:35:04,676 [Worker-23: Launching Manager] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-28 21:35:04,687 [Worker-23: Launching Manager] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/079_hibernate_projesi-1: com.busecnky:079_hibernate_projesi-1:0.0.1-SNAPSHOT with classifier null to /079_hibernate_projesi-1/target/classes
+2022-12-28 21:35:04,701 [Worker-23: Launching Manager] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/079_hibernate_projesi-1: com.busecnky:079_hibernate_projesi-1:0.0.1-SNAPSHOT with classifier null to /079_hibernate_projesi-1/target/classes
+2022-12-28 21:35:04,711 [Worker-23: Launching Manager] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/079_hibernate_projesi-1: com.busecnky:079_hibernate_projesi-1:0.0.1-SNAPSHOT with classifier null to /079_hibernate_projesi-1/target/classes
+2022-12-28 21:36:13,118 [Worker-31: Launching Manager] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/079_hibernate_projesi-1: com.busecnky:079_hibernate_projesi-1:0.0.1-SNAPSHOT with classifier null to /079_hibernate_projesi-1/target/classes
+2022-12-28 21:36:13,138 [Worker-31: Launching Manager] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/079_hibernate_projesi-1: com.busecnky:079_hibernate_projesi-1:0.0.1-SNAPSHOT with classifier null to /079_hibernate_projesi-1/target/classes
+2022-12-28 21:36:13,148 [Worker-31: Launching Manager] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/079_hibernate_projesi-1: com.busecnky:079_hibernate_projesi-1:0.0.1-SNAPSHOT with classifier null to /079_hibernate_projesi-1/target/classes
+2022-12-28 21:36:58,829 [Worker-32: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-28 21:36:58,829 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-28 21:36:58,831 [Worker-32: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-28 21:36:58,831 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-28 21:37:08,712 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-12-28 21:41:44,501 [Worker-25: Launching Manager] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/079_hibernate_projesi-1: com.busecnky:079_hibernate_projesi-1:0.0.1-SNAPSHOT with classifier  to /079_hibernate_projesi-1/target/classes
+2022-12-28 21:41:44,549 [Worker-25: Launching Manager] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/079_hibernate_projesi-1: com.busecnky:079_hibernate_projesi-1:0.0.1-SNAPSHOT with classifier null to /079_hibernate_projesi-1/target/classes
+2022-12-28 21:41:44,570 [Worker-25: Launching Manager] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/079_hibernate_projesi-1: com.busecnky:079_hibernate_projesi-1:0.0.1-SNAPSHOT with classifier null to /079_hibernate_projesi-1/target/classes
+2022-12-28 21:41:44,584 [Worker-25: Launching Manager] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/079_hibernate_projesi-1: com.busecnky:079_hibernate_projesi-1:0.0.1-SNAPSHOT with classifier null to /079_hibernate_projesi-1/target/classes
+2022-12-29 01:41:57,208 [Worker-34: Creating project "gs_34_hibernate_26_12_2022_079benimki"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.furkan:gs_34_hibernate_26_12_2022_079benimki:0.0.1-SNAPSHOT @ /Users/furkanturkmen/Desktop/Repository/eclipse/ders/gs_34_hibernate_26_12_2022_079benimki/pom.xml.
+2022-12-29 01:41:57,328 [Worker-34: Creating project "gs_34_hibernate_26_12_2022_079benimki"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /gs_34_hibernate_26_12_2022_079benimki/src/main/java
+2022-12-29 01:41:57,328 [Worker-34: Creating project "gs_34_hibernate_26_12_2022_079benimki"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /gs_34_hibernate_26_12_2022_079benimki/src/main/resources
+2022-12-29 01:41:57,329 [Worker-34: Creating project "gs_34_hibernate_26_12_2022_079benimki"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /gs_34_hibernate_26_12_2022_079benimki/src/test/java
+2022-12-29 01:41:57,329 [Worker-34: Creating project "gs_34_hibernate_26_12_2022_079benimki"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /gs_34_hibernate_26_12_2022_079benimki/src/test/resources
+2022-12-29 01:41:57,636 [Worker-34: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-29 01:41:57,639 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-29 01:41:57,640 [Worker-34: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-29 01:41:57,640 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-29 01:45:10,716 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-29 01:45:10,720 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-29 01:45:10,721 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-29 01:45:10,722 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-29 01:45:48,549 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-29 01:45:48,550 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-29 01:45:48,552 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-29 01:45:48,552 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-29 01:48:13,854 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-29 01:48:13,855 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-29 01:48:13,857 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-29 01:48:13,858 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-29 01:48:28,137 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-29 01:48:28,137 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-29 01:48:28,138 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-29 01:48:28,138 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-29 01:48:55,020 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-29 01:48:55,022 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-29 01:48:55,023 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-29 01:48:55,023 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-29 01:49:17,547 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-29 01:49:17,548 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-29 01:49:17,549 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-29 01:49:17,549 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-29 01:49:39,135 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-29 01:49:39,137 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-29 01:49:39,139 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-29 01:49:39,141 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-29 01:50:38,717 [Worker-39: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.furkan:gs_34_hibernate_26_12_2022_079benimki:0.0.1-SNAPSHOT @ /Users/furkanturkmen/Desktop/Repository/eclipse/ders/gs_34_hibernate_26_12_2022_079benimki/pom.xml.
+2022-12-29 01:50:38,801 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-29 01:50:38,802 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-29 01:50:38,804 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-29 01:50:38,804 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-29 01:50:39,927 [Worker-44: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-29 01:50:39,928 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-29 01:50:39,929 [Worker-44: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-29 01:50:39,930 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-29 03:32:14,336 [Worker-53: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-29 03:32:14,337 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-29 03:32:14,338 [Worker-53: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-29 03:32:14,339 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-29 03:32:14,358 [Worker-53: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-29 03:32:14,359 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-29 03:32:14,361 [Worker-53: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-29 03:32:14,361 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-29 16:20:05,904 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-12-29 16:21:45,662 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-29 16:21:45,665 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-29 16:21:45,667 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-29 16:21:45,668 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-29 16:21:52,802 [Worker-25: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.december27:080_hibernate_projesi-2:0.0.1-SNAPSHOT @ /Users/furkanturkmen/Downloads/080_hibernate_projesi-2/pom.xml.
+2022-12-29 16:22:50,210 [Worker-5: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.december27:080_hibernate_projesi-2:0.0.1-SNAPSHOT @ /Users/furkanturkmen/Downloads/080_hibernate_projesi-2/pom.xml.
+2022-12-29 16:22:50,304 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-29 16:22:50,305 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-29 16:22:50,306 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-29 16:22:50,307 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-29 16:22:51,491 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-29 16:22:51,492 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-29 16:22:51,493 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-29 16:22:51,494 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-29 16:22:51,695 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/projectlombok/lombok/1.18.24/lombok-1.18.24-sources.jar
+2022-12-29 16:22:52,153 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/projectlombok/lombok/1.18.24/lombok-1.18.24-sources.jar
+2022-12-29 16:22:52,154 [Worker-24: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.projectlombok:lombok:1.18.24
+2022-12-29 16:22:52,505 [Worker-24: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-29 16:22:52,505 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-29 16:22:52,506 [Worker-24: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-29 16:22:52,506 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-29 16:23:26,842 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-29 16:23:26,843 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-29 16:23:26,844 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-29 16:23:26,844 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-29 16:23:38,336 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-29 16:23:38,337 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-29 16:23:38,338 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-29 16:23:38,339 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-29 16:26:18,984 [Worker-5: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.december27:080_hibernate_projesi-2:0.0.1-SNAPSHOT @ /Users/furkanturkmen/Downloads/080_hibernate_projesi-2/pom.xml.
+2022-12-29 16:26:19,045 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-29 16:26:19,046 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-29 16:26:19,047 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-29 16:26:19,048 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-29 16:27:00,552 [Worker-29: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.december27:080_hibernate_projesi-2:0.0.1-SNAPSHOT @ /Users/furkanturkmen/Downloads/080_hibernate_projesi-2/pom.xml.
+2022-12-29 16:27:00,611 [Worker-29: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-29 16:27:00,612 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-29 16:27:00,613 [Worker-29: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-29 16:27:00,614 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-30 00:54:53,851 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-12-30 00:54:54,134 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Updating Gradle version information cache failed. Using outdated cache.
+2022-12-30 00:57:12,967 [Worker-8: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-30 00:57:12,971 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-30 00:57:12,973 [Worker-8: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-30 00:57:12,973 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-30 00:57:13,089 [Worker-8: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-30 00:57:13,089 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-30 00:57:13,090 [Worker-8: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-30 00:57:13,091 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-30 01:04:40,098 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-30 01:04:40,100 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-30 01:04:40,101 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-30 01:04:40,101 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-30 01:07:41,364 [Worker-7: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-30 01:07:41,365 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-30 01:07:41,366 [Worker-7: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-30 01:07:41,366 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-30 01:08:20,473 [Worker-28: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-30 01:08:20,473 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-30 01:08:20,474 [Worker-28: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-30 01:08:20,475 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-30 01:10:52,822 [Worker-7: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-30 01:10:52,823 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-30 01:10:52,825 [Worker-7: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-30 01:10:52,825 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-30 01:11:04,924 [Worker-31: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-30 01:11:04,924 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-30 01:11:04,925 [Worker-31: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-30 01:11:04,925 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-30 01:11:34,362 [Worker-30: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-30 01:11:34,362 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-30 01:11:34,364 [Worker-30: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-30 01:11:34,364 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-30 01:12:55,972 [Worker-32: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-30 01:12:55,979 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-30 01:12:55,980 [Worker-32: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-30 01:12:55,980 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-30 01:13:02,322 [Worker-33: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-30 01:13:02,323 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-30 01:13:02,325 [Worker-33: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-30 01:13:02,325 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-30 01:13:11,103 [Worker-33: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-30 01:13:11,104 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-30 01:13:11,105 [Worker-33: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-30 01:13:11,106 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-30 01:13:14,900 [Worker-32: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-30 01:13:14,901 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-30 01:13:14,902 [Worker-32: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-30 01:13:14,903 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-30 01:13:20,438 [Worker-34: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-30 01:13:20,439 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-30 01:13:20,441 [Worker-34: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-30 01:13:20,441 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-30 01:13:33,604 [Worker-32: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-30 01:13:33,604 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-30 01:13:33,606 [Worker-32: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-30 01:13:33,607 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-30 01:13:44,592 [Worker-30: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-30 01:13:44,592 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-30 01:13:44,594 [Worker-30: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-30 01:13:44,595 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-30 01:13:54,144 [Worker-34: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-30 01:13:54,145 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-30 01:13:54,148 [Worker-34: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-30 01:13:54,148 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-30 01:14:00,550 [Worker-33: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-30 01:14:00,550 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-30 01:14:00,552 [Worker-33: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-30 01:14:00,552 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-30 01:14:17,977 [Worker-30: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-30 01:14:17,978 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-30 01:14:17,980 [Worker-30: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-30 01:14:17,980 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-30 01:14:28,082 [Worker-30: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-30 01:14:28,083 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-30 01:14:28,085 [Worker-30: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-30 01:14:28,085 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-30 01:14:33,170 [Worker-7: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-30 01:14:33,172 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-30 01:14:33,173 [Worker-7: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-30 01:14:33,174 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-30 01:14:38,925 [Worker-7: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-30 01:14:38,925 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-30 01:14:38,926 [Worker-7: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-30 01:14:38,926 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-30 01:14:43,945 [Worker-35: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-30 01:14:43,946 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-30 01:14:43,947 [Worker-35: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-30 01:14:43,948 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-30 01:14:51,108 [Worker-7: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-30 01:14:51,109 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-30 01:14:51,111 [Worker-7: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-30 01:14:51,111 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-30 01:14:56,493 [Worker-32: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-30 01:14:56,494 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-30 01:14:56,495 [Worker-32: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-30 01:14:56,496 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-30 01:15:36,780 [Worker-7: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-30 01:15:36,781 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-30 01:15:36,783 [Worker-7: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-30 01:15:36,783 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-30 01:15:52,360 [Worker-33: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-30 01:15:52,361 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-30 01:15:52,362 [Worker-33: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-30 01:15:52,363 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-30 01:15:58,263 [Worker-34: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-30 01:15:58,264 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-30 01:15:58,264 [Worker-34: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-30 01:15:58,265 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-30 01:16:06,647 [Worker-32: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-30 01:16:06,648 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-30 01:16:06,649 [Worker-32: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-30 01:16:06,649 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-30 01:16:14,341 [Worker-33: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-30 01:16:14,342 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-30 01:16:14,343 [Worker-33: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-30 01:16:14,344 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-30 01:16:26,838 [Worker-7: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-30 01:16:26,838 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-30 01:16:26,839 [Worker-7: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-30 01:16:26,839 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-30 01:17:41,537 [Worker-34: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-30 01:17:41,538 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-30 01:17:41,539 [Worker-34: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-30 01:17:41,539 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-30 01:18:21,400 [Worker-33: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-30 01:18:21,401 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-30 01:18:21,402 [Worker-33: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-30 01:18:21,402 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-30 01:18:28,546 [Worker-35: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-30 01:18:28,547 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-30 01:18:28,548 [Worker-35: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-30 01:18:28,548 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-30 01:18:55,753 [Worker-32: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-30 01:18:55,754 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-30 01:18:55,755 [Worker-32: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-30 01:18:55,756 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-30 01:20:46,481 [Worker-35: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-30 01:20:46,482 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-30 01:20:46,482 [Worker-35: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-30 01:20:46,482 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-30 01:23:26,777 [Worker-7: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-30 01:23:26,779 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-30 01:23:26,780 [Worker-7: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-30 01:23:26,780 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-30 01:26:13,877 [Worker-7: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-30 01:26:13,878 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-30 01:26:13,879 [Worker-7: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-30 01:26:13,880 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-30 01:26:56,172 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-30 01:26:56,174 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-30 01:26:56,175 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-30 01:26:56,175 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-30 01:27:17,896 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-30 01:27:17,897 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-30 01:27:17,898 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-30 01:27:17,898 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-30 01:28:24,088 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-30 01:28:24,089 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-30 01:28:24,090 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-30 01:28:24,090 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-30 01:28:46,367 [Worker-7: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-30 01:28:46,368 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-30 01:28:46,369 [Worker-7: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-30 01:28:46,369 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-30 01:28:56,172 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-30 01:28:56,173 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-30 01:28:56,174 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-30 01:28:56,174 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-30 01:29:20,905 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-30 01:29:20,906 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-30 01:29:20,906 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-30 01:29:20,907 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-30 01:29:32,771 [Worker-40: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-30 01:29:32,772 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-30 01:29:32,773 [Worker-40: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-30 01:29:32,773 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-30 01:29:41,459 [Worker-37: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-30 01:29:41,460 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-30 01:29:41,460 [Worker-37: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-30 01:29:41,461 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-30 01:30:02,915 [Worker-37: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-30 01:30:02,916 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-30 01:30:02,917 [Worker-37: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-30 01:30:02,917 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-30 01:30:14,667 [Worker-37: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-30 01:30:14,668 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-30 01:30:14,669 [Worker-37: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-30 01:30:14,669 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-30 01:30:27,595 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-30 01:30:27,595 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-30 01:30:27,596 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-30 01:30:27,596 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-30 01:31:46,738 [Worker-42: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-30 01:31:46,739 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-30 01:31:46,740 [Worker-42: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-30 01:31:46,740 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-30 01:41:27,741 [Worker-47: Building Workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-30 01:41:27,742 [Worker-47: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-30 01:41:27,743 [Worker-47: Building Workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-30 01:41:27,743 [Worker-47: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-30 02:09:40,674 [Worker-46: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-30 02:09:40,675 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-30 02:09:40,676 [Worker-46: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-30 02:09:40,678 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-30 03:11:20,696 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-12-30 03:11:37,005 [Worker-14: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration App references non-existing project 080_hibernate_projesi-2.
+org.eclipse.core.runtime.CoreException: Launch configuration App references non-existing project 080_hibernate_projesi-2.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1861)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1736)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:64)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:50)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:225)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:524)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:412)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:410)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:436)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:135)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:832)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:985)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:162)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:364)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:274)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:213)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2022-12-30 03:11:37,006 [Worker-14: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration App references non-existing project 080_hibernate_projesi-2.
+org.eclipse.core.runtime.CoreException: Launch configuration App references non-existing project 080_hibernate_projesi-2.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1861)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1736)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:64)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:50)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:225)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:524)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:412)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:411)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:436)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:135)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:832)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:985)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:162)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:364)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:274)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:213)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2022-12-30 03:11:37,008 [Worker-14: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration App references non-existing project 080_hibernate_projesi-2.
+org.eclipse.core.runtime.CoreException: Launch configuration App references non-existing project 080_hibernate_projesi-2.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1861)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1736)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:64)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:50)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:225)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209)
+	at org.eclipse.debug.internal.core.LaunchManager.launchConfigurationChanged(LaunchManager.java:2147)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.writeNewFile(LaunchConfigurationWorkingCopy.java:377)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave0(LaunchConfigurationWorkingCopy.java:259)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:229)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:187)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:412)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:436)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:135)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:832)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:985)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:162)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:364)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:274)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:213)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2022-12-30 03:12:17,902 [Worker-17: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.guraysungur:080_hibernate-projesi-2:0.0.1-SNAPSHOT @ /Users/furkanturkmen/Downloads/080_hibernate-projesi-2/pom.xml.
+2022-12-30 03:12:18,009 [Worker-17: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-30 03:12:18,012 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-30 03:12:18,013 [Worker-17: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-30 03:12:18,014 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-30 03:12:18,582 [Worker-4: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.guraysungur:080_hibernate-projesi-2:0.0.1-SNAPSHOT @ /Users/furkanturkmen/Downloads/080_hibernate-projesi-2/pom.xml.
+2022-12-30 03:12:19,268 [Worker-19: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-30 03:12:19,269 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-30 03:12:19,270 [Worker-19: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-30 03:12:19,271 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-30 03:12:53,686 [Worker-10: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-30 03:12:53,687 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-30 03:12:53,689 [Worker-10: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-30 03:12:53,689 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-30 03:22:22,700 [Worker-26: Building Workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-30 03:22:22,702 [Worker-26: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-30 03:22:22,703 [Worker-26: Building Workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-30 03:22:22,704 [Worker-26: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-31 01:17:02,066 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-12-31 01:19:29,320 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-12-31 01:22:46,149 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-12-31 01:23:34,002 [Worker-1: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.guraysungur:081_hibernate-gui:0.0.1-SNAPSHOT @ /Users/furkanturkmen/Downloads/eclipseworkspaceBOOST/081_hibernate-gui/pom.xml.
+2022-12-31 01:23:34,118 [Worker-1: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-31 01:23:34,120 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-31 01:23:34,121 [Worker-1: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-31 01:23:34,122 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-31 01:23:34,450 [Worker-10: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.guraysungur:081_hibernate-gui:0.0.1-SNAPSHOT @ /Users/furkanturkmen/Downloads/eclipseworkspaceBOOST/081_hibernate-gui/pom.xml.
+2022-12-31 01:23:35,239 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-31 01:23:35,240 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-31 01:23:35,241 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-31 01:23:35,241 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-31 01:24:00,700 [Worker-17: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-31 01:24:00,704 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-31 01:24:00,705 [Worker-17: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-31 01:24:00,706 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-31 01:25:17,047 [Worker-0: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-31 01:25:17,048 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-31 01:25:17,049 [Worker-0: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-31 01:25:17,049 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-31 01:31:08,077 [Worker-22: Creating project "okul"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.furkan:okul:0.0.1-SNAPSHOT @ /Users/furkanturkmen/Desktop/Repository/eclipse/ders/okul/pom.xml.
+2022-12-31 01:31:08,172 [Worker-22: Creating project "okul"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /okul/src/main/java
+2022-12-31 01:31:08,172 [Worker-22: Creating project "okul"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /okul/src/main/resources
+2022-12-31 01:31:08,173 [Worker-22: Creating project "okul"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /okul/src/test/java
+2022-12-31 01:31:08,173 [Worker-22: Creating project "okul"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /okul/src/test/resources
+2022-12-31 01:31:08,414 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-31 01:31:08,415 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-31 01:31:08,415 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-31 01:31:08,416 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-31 01:31:56,790 [Worker-0: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-31 01:31:56,791 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-31 01:31:56,794 [Worker-0: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-31 01:31:56,795 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-31 01:33:48,629 [Worker-26: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.furkan:okul:0.0.1-SNAPSHOT @ /Users/furkanturkmen/Desktop/Repository/eclipse/ders/okul/pom.xml.
+2022-12-31 01:33:48,671 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-31 01:33:48,672 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-31 01:33:48,673 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-31 01:33:48,673 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-31 01:33:49,794 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-31 01:33:49,796 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-31 01:33:49,798 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-31 01:33:49,799 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-31 01:34:49,260 [Worker-28: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.furkan:okul:0.0.1-SNAPSHOT @ /Users/furkanturkmen/Desktop/Repository/eclipse/ders/okul/pom.xml.
+2022-12-31 01:34:49,306 [Worker-28: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-31 01:34:49,307 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-31 01:34:49,309 [Worker-28: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-31 01:34:49,310 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-31 01:34:50,416 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-31 01:34:50,416 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-31 01:34:50,418 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-31 01:34:50,418 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-31 01:36:32,921 [Worker-27: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.furkan:okul:0.0.1-SNAPSHOT @ /Users/furkanturkmen/Desktop/Repository/eclipse/ders/okul/pom.xml.
+2022-12-31 01:36:32,965 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-31 01:36:32,966 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-31 01:36:32,967 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-31 01:36:32,967 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-31 01:36:40,445 [Worker-0: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.furkan:okul:0.0.1-SNAPSHOT @ /Users/furkanturkmen/Desktop/Repository/eclipse/ders/okul/pom.xml.
+2022-12-31 01:36:40,472 [Worker-0: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-31 01:36:40,472 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-31 01:36:40,473 [Worker-0: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-31 01:36:40,473 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-31 01:37:46,000 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-31 01:37:46,001 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-31 01:37:46,002 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-31 01:37:46,002 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-31 01:37:57,472 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-31 01:37:57,473 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-31 01:37:57,474 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-31 01:37:57,474 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-31 01:38:09,988 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-31 01:38:09,988 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-31 01:38:09,989 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-31 01:38:09,989 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-31 01:38:15,722 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-31 01:38:15,723 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-31 01:38:15,724 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-31 01:38:15,724 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-31 01:38:24,502 [Worker-30: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-31 01:38:24,502 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-31 01:38:24,503 [Worker-30: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-31 01:38:24,504 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-31 01:38:33,650 [Worker-30: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-31 01:38:33,651 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-31 01:38:33,652 [Worker-30: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-31 01:38:33,652 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-31 01:38:45,864 [Worker-30: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-31 01:38:45,865 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-31 01:38:45,866 [Worker-30: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-31 01:38:45,867 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-31 01:39:08,152 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-31 01:39:08,153 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-31 01:39:08,154 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-31 01:39:08,154 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-31 01:39:19,708 [Worker-28: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-31 01:39:19,709 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-31 01:39:19,710 [Worker-28: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-31 01:39:19,710 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-31 01:39:29,001 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-31 01:39:29,002 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-31 01:39:29,003 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-31 01:39:29,003 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-31 01:39:36,432 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-31 01:39:36,433 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-31 01:39:36,434 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-31 01:39:36,435 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-31 01:39:48,321 [Worker-28: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-31 01:39:48,321 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-31 01:39:48,322 [Worker-28: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-31 01:39:48,322 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-31 01:40:41,860 [Worker-30: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-31 01:40:41,862 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-31 01:40:41,863 [Worker-30: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-31 01:40:41,863 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-31 02:57:12,578 [Worker-36: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-31 02:57:12,579 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-31 02:57:12,580 [Worker-36: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-31 02:57:12,581 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-31 02:59:08,922 [Worker-36: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.bilgeadam:LibraryMS:0.0.1-SNAPSHOT @ /Users/furkanturkmen/Downloads/BilgeAdam_JDBC-main/LibraryMS/pom.xml.
+2022-12-31 02:59:09,387 [Worker-36: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/postgresql/postgresql/42.4.2/postgresql-42.4.2.pom
+2022-12-31 02:59:09,477 [Worker-36: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/postgresql/postgresql/42.4.2/postgresql-42.4.2.pom
+2022-12-31 02:59:09,549 [Worker-36: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/postgresql/postgresql/42.4.2/postgresql-42.4.2.jar
+2022-12-31 02:59:09,921 [Worker-36: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/postgresql/postgresql/42.4.2/postgresql-42.4.2.jar
+2022-12-31 02:59:09,953 [Worker-36: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-31 02:59:09,953 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-31 02:59:09,955 [Worker-36: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-31 02:59:09,955 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/furkanturkmen/Downloads/BilgeAdam_JDBC-main/LibraryMS/src/test/resources
+2022-12-31 02:59:10,070 [Worker-36: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-31 02:59:10,070 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-31 02:59:10,071 [Worker-36: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-31 02:59:10,071 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/furkanturkmen/Downloads/BilgeAdam_JDBC-main/LibraryMS/src/test/resources
+2022-12-31 02:59:10,752 [Worker-36: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.bilgeadam:LibraryMS:0.0.1-SNAPSHOT @ /Users/furkanturkmen/Downloads/BilgeAdam_JDBC-main/LibraryMS/pom.xml.
+2022-12-31 02:59:11,078 [Worker-29: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-31 02:59:11,078 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-31 02:59:11,079 [Worker-29: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-31 02:59:11,079 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/furkanturkmen/Downloads/BilgeAdam_JDBC-main/LibraryMS/src/test/resources
+2022-12-31 02:59:11,394 [Worker-38: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/postgresql/postgresql/42.4.2/postgresql-42.4.2-sources.jar
+2022-12-31 02:59:11,738 [Worker-38: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/postgresql/postgresql/42.4.2/postgresql-42.4.2-sources.jar
+2022-12-31 02:59:11,739 [Worker-38: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.postgresql:postgresql:42.4.2
+2022-12-31 02:59:12,091 [Worker-36: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-31 02:59:12,092 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-31 02:59:12,093 [Worker-36: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-31 02:59:12,094 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/furkanturkmen/Downloads/BilgeAdam_JDBC-main/LibraryMS/src/test/resources
+2022-12-31 03:01:34,663 [Worker-40: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-31 03:01:34,664 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-31 03:01:34,665 [Worker-40: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-31 03:01:34,665 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-31 03:02:01,692 [Worker-29: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-31 03:02:01,693 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-31 03:02:01,694 [Worker-29: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-31 03:02:01,694 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-31 03:03:08,414 [Worker-29: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-31 03:03:08,415 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-31 03:03:08,416 [Worker-29: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-31 03:03:08,416 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-31 03:04:17,858 [Worker-29: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.furkan:okul:0.0.1-SNAPSHOT @ /Users/furkanturkmen/Downloads/BilgeAdam_JDBC-main/LibraryMS/pom.xml.
+2022-12-31 03:04:17,892 [Worker-29: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-31 03:04:17,893 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-31 03:04:17,894 [Worker-29: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-31 03:04:17,894 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-31 03:04:19,053 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-31 03:04:19,053 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-31 03:04:19,054 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-31 03:04:19,054 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-31 03:05:12,877 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-31 03:05:12,878 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-31 03:05:12,879 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-31 03:05:12,879 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-31 03:10:08,350 [Worker-41: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-31 03:10:08,352 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-31 03:10:08,352 [Worker-41: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-31 03:10:08,353 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-31 03:10:19,824 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-12-31 03:10:55,518 [Worker-24: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-31 03:10:55,521 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-31 03:10:55,524 [Worker-24: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-31 03:10:55,525 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-31 03:16:07,075 [Worker-6: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-31 03:16:07,081 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-31 03:16:07,082 [Worker-6: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-31 03:16:07,083 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-31 03:16:49,359 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-12-31 03:17:09,619 [Worker-18: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-31 03:17:09,623 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-31 03:17:09,627 [Worker-18: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-31 03:17:09,627 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-31 03:42:15,807 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-31 03:42:15,822 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-31 03:42:15,824 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-31 03:42:15,824 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource

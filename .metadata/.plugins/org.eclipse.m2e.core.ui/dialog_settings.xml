@@ -2,6 +2,9 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="/Users/furkanturkmen/Downloads/078_KatmanliMimari"/>
+			<item value="/Users/furkanturkmen/Desktop/Repository/eclipse/ders"/>
+			<item value="/Users/furkanturkmen/Downloads/Oglen_ApplicationCarDealer/src/main/java/com/december22/entity/Car.java"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -44,12 +47,13 @@
 	</section>
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
-			<item value="com.furkanturkmen"/>
+			<item value="com.furkan"/>
 		</list>
 		<list key="name">
 		</list>
 		<list key="artifactId">
-			<item value="gs_30_maven_15_12_2022_sha256hash"/>
+			<item value="okul"/>
+			<item value="gs_34_hibernate_26_12_2022_079benimki"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -64,6 +68,14 @@
 		</list>
 	</section>
 	<section name="org.eclipse.m2e.core.pom.overview">
+		<list key="ciManagementUrl">
+		</list>
+		<list key="ciManagementSystem">
+		</list>
+		<list key="issueManagementSystem">
+		</list>
+		<list key="issueManagementUrl">
+		</list>
 	</section>
 	<section name="org.eclipse.m2e.core.pom.dependencies">
 	</section>

@@ -1,9 +1,0 @@
-package com.busecnky.kasim23.anonymousInnerClasses;
-
-public class Insan {
-
-	public void yemekYe() {
-        System.out.println("et ve sebze  ye " );
-    }
-	
-}
