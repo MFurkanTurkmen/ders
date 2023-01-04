@@ -47,11 +47,13 @@
 	</section>
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
+			<item value="yzokul"/>
 			<item value="com.furkan"/>
 		</list>
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="yzokul"/>
 			<item value="okul"/>
 			<item value="gs_34_hibernate_26_12_2022_079benimki"/>
 		</list>

@@ -1,23 +1,43 @@
 package com.furkan.entity;
 
-import javax.persistence.Entity;
-import javax.persistence.GeneratedValue;
-import javax.persistence.GenerationType;
-import javax.persistence.Id;
-import javax.persistence.Table;
+import javax.persistence.*;
 
-import lombok.Data;
+import lombok.*;
 
-@Data
+
 @Entity
-@Table
+@AllArgsConstructor
+@Data
+@RequiredArgsConstructor
+@NoArgsConstructor
+
 public class Student {
 	@Id
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
-	private int studentId;
+	@Column(name="STUDENT_NUMBER")
 	private int studentNumber;
+	
+	@Column(nullable = false)
+	@NonNull
 	private String studentName;
+	@NonNull
 	private String studentSurname;
-	private int exam;
-	private int finalExam;
+	@NonNull
+	@Column(nullable = false)
+	private String password;
+	
+	@ManyToOne(cascade = CascadeType.ALL)
+	@NonNull
+	@JoinColumn(name ="classroom_id", referencedColumnName = "CLASSROOM_ID")
+	private Classroom classroom;
+
+	@Override
+	public String toString() {
+		return "Student [studentNumber=" + studentNumber + ", studentName=" + studentName + ", studentSurname="
+				+ studentSurname + ", password=" + password + ", classroom=" + classroom + "]";
+	}
+		
+	
+	
+	
 }

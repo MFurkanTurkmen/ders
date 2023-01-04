@@ -26,6 +26,7 @@ import javax.swing.JPanel;
 import java.awt.Color;
 import javax.swing.JSplitPane;
 import javax.swing.UIManager;
+import javax.swing.JLabel;
 
 public class ComplateSwingJdbc {
 
@@ -73,6 +74,11 @@ public class ComplateSwingJdbc {
 		JPanel panel = new JPanel();
 		tabbedPane.addTab("Search and delete", null, panel, null);
 		panel.setLayout(null);
+		
+		JLabel lblNewLabel = new JLabel("New label");
+		lblNewLabel.setBounds(-83, 0, 1056, 482);
+		panel.add(lblNewLabel);
+		lblNewLabel.setIcon(new ImageIcon(ComplateSwingJdbc.class.getResource("/resources/Button-Delete-icon.png")));
 		
 		txfdeleteid = new JTextField();
 		txfdeleteid.setBackground(new Color(243, 173, 166));
