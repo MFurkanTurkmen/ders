@@ -15,8 +15,8 @@ public interface MyICrud <T> {
 	public void save (T t);
 	public void update(T t, int id);
 	public void delete(T t);
-	public List<T> findAll(T t);
-	public T findById(T t,int id);
+	public <T> List<T> findAll(Class<T> t);
+	public T findById(Class<T> type,int id);
 	
 	
 

@@ -2,6 +2,7 @@ package com.furkan.repository;
 
 import java.util.List;
 import java.util.Optional;
+import java.util.Set;
 
 import javax.persistence.Query;
 import javax.persistence.TypedQuery;
@@ -70,15 +71,17 @@ public class ClassroomDao implements ICrud<Classroom> {
 			openSession();
 			classroom = session.find(Classroom.class, id);
 			if (classroom != null) {
+				System.out.println("buldu");
 				session.delete(classroom);
+				//session.remove(Classroom.class,classroom);
+				System.out.println("sildi");
 			} else {
 				System.out.println("id ile sınıf bulunamadı ve silinemedi");
 			}
-
+			closeSession();
 		} catch (Exception e) {
 			System.out.println("--- classroom - delete de hata ---");
 			closeRollBack();
-
 		}
 
 	}
@@ -91,7 +94,7 @@ public class ClassroomDao implements ICrud<Classroom> {
 			openSession();
 			TypedQuery<Classroom> query = session.createQuery(sorgu,Classroom.class);
 			if(query != null) {
-				classroom = query.getResultList();
+				classroom =  query.getResultList();
 			}else {
 				System.out.println("ögrenci listesi bos");
 			}
@@ -108,13 +111,12 @@ public class ClassroomDao implements ICrud<Classroom> {
 	@Override
 	public Classroom findByName(String name) {
 		Classroom classroom=null;
-		try {
+		
 			openSession();
-			String sorgu= "Select name From Classroom as Where classroom.className=:key";
-			
-			Query query = session.createQuery(sorgu,Classroom.class);
+			String hql = "select user from Classroom as user where user.className =:key ";
+			Query query = session.createQuery(hql,Classroom.class);
 			query.setParameter("key", name);
-			classroom=(Classroom) query.getSingleResult();
+			try {	classroom=(Classroom) query.getSingleResult();
 			
 
 		} catch (Exception e) {
@@ -124,6 +126,27 @@ public class ClassroomDao implements ICrud<Classroom> {
 		}
 		return classroom;
 	}
+	
+	
+	
+	
+	
+	
+	public Optional<Classroom> findByNameOptional(String classname) {
+		openSession();
+		Classroom classroom = null;
+		String hql = "select user from Classroom as user where user.className =:key ";
+		Query query = session.createQuery(hql);
+		query.setParameter("key", classname);
+		try {
+			classroom = (Classroom) query.getSingleResult();
+			closeSession();
+			return Optional.of(classroom);
+		} catch (Exception e) {
+			closeRollBack();
+			return Optional.empty();
+		}
+	}
 
 	@Override
 	public Classroom findById(int id) {
@@ -131,15 +154,7 @@ public class ClassroomDao implements ICrud<Classroom> {
 		try {
 			openSession();
 			classroom = session.find(Classroom.class, id);
-
-			if (classroom != null) {
-				System.out.println("id ile sınıf bulundu : " + classroom);
-
-			} else {
-				System.out.println("kullanici bulunamadı");
-			}
 			closeSession();
-
 		} catch (Exception e) {
 			System.out.println("--- classroom - findbyid de hata ---");
 			closeRollBack();

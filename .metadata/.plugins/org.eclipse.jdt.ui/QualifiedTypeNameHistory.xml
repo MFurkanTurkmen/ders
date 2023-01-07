@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="javax.persistence.FetchType"/>
-    <fullyQualifiedTypeName name="javax.persistence.Entity"/>
     <fullyQualifiedTypeName name="javax.persistence.JoinColumns"/>
     <fullyQualifiedTypeName name="lombok.Getter"/>
     <fullyQualifiedTypeName name="lombok.Setter"/>
@@ -28,7 +26,6 @@
     <fullyQualifiedTypeName name="lombok.NonNull"/>
     <fullyQualifiedTypeName name="java.lang.ArrayStoreException"/>
     <fullyQualifiedTypeName name="java.util.Arrays"/>
-    <fullyQualifiedTypeName name="javax.persistence.criteria.CriteriaBuilder"/>
     <fullyQualifiedTypeName name="com.furkan.repository.Crud"/>
     <fullyQualifiedTypeName name="org.hibernate.criterion.Restrictions"/>
     <fullyQualifiedTypeName name="T"/>
@@ -41,23 +38,26 @@
     <fullyQualifiedTypeName name="java.util.stream.Collector"/>
     <fullyQualifiedTypeName name="java.util.Collection"/>
     <fullyQualifiedTypeName name="java.util.Optional"/>
-    <fullyQualifiedTypeName name="javax.persistence.TypedQuery"/>
     <fullyQualifiedTypeName name="javax.persistence.Query"/>
     <fullyQualifiedTypeName name="com.furkan.repository.ICrud"/>
     <fullyQualifiedTypeName name="org.hibernate.Transaction"/>
     <fullyQualifiedTypeName name="org.hibernate.Session"/>
-    <fullyQualifiedTypeName name="com.furkan.util.HibernateUtils"/>
-    <fullyQualifiedTypeName name="java.util.List"/>
     <fullyQualifiedTypeName name="com.apple.laf.AquaTextAreaUI"/>
-    <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="com.furkan.service.ClassroomService"/>
     <fullyQualifiedTypeName name="com.furkan.repository.ClassroomDao"/>
     <fullyQualifiedTypeName name="java.lang.Object"/>
     <fullyQualifiedTypeName name="javax.swing.ComboBoxModel"/>
     <fullyQualifiedTypeName name="javax.swing.DefaultComboBoxModel"/>
+    <fullyQualifiedTypeName name="com.furkan.repository.myRepo.MyStudentRepository"/>
+    <fullyQualifiedTypeName name="com.furkan.repository.myRepo.MyClassroomRepository"/>
+    <fullyQualifiedTypeName name="javax.persistence.criteria.CriteriaBuilder"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="com.furkan.util.HibernateUtils"/>
+    <fullyQualifiedTypeName name="com.furkan.repository.StudentDao"/>
+    <fullyQualifiedTypeName name="javax.persistence.TypedQuery"/>
+    <fullyQualifiedTypeName name="com.furkan.entity.Student"/>
     <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="java.util.Objects"/>
-    <fullyQualifiedTypeName name="com.furkan.entity.Student"/>
-    <fullyQualifiedTypeName name="com.furkan.repository.StudentDao"/>
     <fullyQualifiedTypeName name="com.furkan.entity.Classroom"/>
 </qualifiedTypeNameHistroy>

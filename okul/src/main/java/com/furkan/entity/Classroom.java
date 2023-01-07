@@ -1,8 +1,12 @@
 package com.furkan.entity;
 
 import java.util.List;
+import java.util.Set;
 
 import javax.persistence.*;
+
+import org.hibernate.annotations.Fetch;
+import org.hibernate.annotations.FetchMode;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
@@ -30,13 +34,26 @@ public class Classroom {
 	@Column(unique = true)
 	private String className;
 
-	
-	@OneToMany(cascade = CascadeType.ALL)
-	@JoinTable(name = "classroom_detail_forstudent",
-	joinColumns = @JoinColumn(name ="classroom_id",referencedColumnName = "CLASSROOM_ID"),
-	inverseJoinColumns = @JoinColumn(name="student_id",referencedColumnName = "STUDENT_NUMBER")
-			)
+//	@JoinTable(name = "classroom_detail_forstudent",
+//	joinColumns = @JoinColumn(name ="classroom_id",referencedColumnName = "CLASSROOM_ID"),
+//	inverseJoinColumns = @JoinColumn(name="student_id",referencedColumnName = "STUDENT_NUMBER")
+//			)
+	@OneToMany(cascade = CascadeType.REMOVE,mappedBy = "classroom",orphanRemoval = true)
 	private List<Student> student;
+
+
+	public Classroom(List<Student> student) {
+		this.student = student;
+	}
+
+
+	public Classroom(@NonNull String className, List<Student> student) {
+		super();
+		this.className = className;
+		this.student = student;
+	}
+	
+	
 	
 
 

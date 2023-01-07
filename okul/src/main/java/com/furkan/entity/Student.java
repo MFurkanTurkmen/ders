@@ -26,17 +26,17 @@ public class Student {
 	@Column(nullable = false)
 	private String password;
 	
-	@ManyToOne(cascade = CascadeType.ALL)
+	@ManyToOne
 	@NonNull
-	@JoinColumn(name ="classroom_id", referencedColumnName = "CLASSROOM_ID")
 	private Classroom classroom;
 
 	@Override
 	public String toString() {
 		return "Student [studentNumber=" + studentNumber + ", studentName=" + studentName + ", studentSurname="
-				+ studentSurname + ", password=" + password + ", classroom=" + classroom + "]";
+				+ studentSurname + ", password=" + password + ", classroom=" + classroom.getClassName() + "]";
 	}
-		
+
+
 	
 	
 	

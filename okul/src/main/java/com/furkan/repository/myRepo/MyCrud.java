@@ -8,7 +8,9 @@ import javax.persistence.EntityManager;
 import javax.persistence.Query;
 import javax.persistence.TypedQuery;
 import javax.persistence.criteria.*;
+import javax.persistence.criteria.CriteriaQuery;
 
+import com.furkan.entity.Classroom;
 import com.furkan.util.HibernateUtils;
 import org.hibernate.Transaction;
 import org.hibernate.criterion.*;
@@ -17,11 +19,11 @@ import org.hibernate.Session;
 
 public class MyCrud<T> implements MyICrud<T> {
 	
+	private  Class T = null;
 	private Session session;
 	private Transaction transaction;
 	private CriteriaBuilder criteriaBuilder;
 	private EntityManager entityManager;
-	
 	public MyCrud() {
 		entityManager = HibernateUtils.getSessionFactory().createEntityManager();
 		criteriaBuilder = entityManager.getCriteriaBuilder();
@@ -80,41 +82,47 @@ public class MyCrud<T> implements MyICrud<T> {
 			closeSession();
 		} catch (Exception e) {
 			System.out.println("repoda delete hatasi");
+			closeSession();
 		}
 		
 	}
-
+	
+	
 	@Override
-	public List<T> findAll(T t) {
-		List<T> list=null;
-        openSession();
-        Criteria cr=session.createCriteria(t.getClass());
-        list=cr.list();
-        closeSession();
-        return list;
-	}
-
-	@Override
-	public T findById(T t, int id) {
-		T result=null;
-        openSession();
-        Criteria cr =session.createCriteria(t.getClass());
-        cr.add(Restrictions.eq("id",id));
-        if(cr.list().size()>0){
-            result=(T) cr.list().get(0);
-        }
-        else {
-            System.out.println("yanlis");
-        }
-        return result;
+	public T findById(Class<T> type ,int id) {
+		T entity= null;
+		try {
+			openSession();
+			//String hql= "FROM" + type.getName() +"where";
+			entity=session.find(type, id);
+//			Query query = session.createQuery(hql);
+//			entity=(T) query;
+			closeSession();
+		} catch (Exception e) {
+			System.out.println("find by id hatasi");
+			closeRollBack();
+		}
+		
+		return entity;
 	}
 
 
 	
 
 
+	public <T> List<T> findAll(Class<T> type) {
+		  openSession();
+		  String hql = "FROM " + type.getName();
+		  TypedQuery<T> query = session.createQuery(hql);
+		  List<T> list = query.getResultList();
+		  session.close();
+		  return list;
+		}
+
+
+
 	
 
-//	
+
 	
 }
