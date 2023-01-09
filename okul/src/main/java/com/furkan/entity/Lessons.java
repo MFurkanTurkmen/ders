@@ -26,11 +26,12 @@ public class Lessons {
 	@NonNull
 	private String lessonName;
 	
-	@OneToMany(targetEntity = Teacher.class)
-	@JoinTable(name="lessons_detain_forteacher",
-	joinColumns = @JoinColumn(name ="lessons_id",referencedColumnName = "LESSONS_ID"),
-	inverseJoinColumns = @JoinColumn(name="teacher_id",referencedColumnName = "TEACHER_ID")
-			)
+	@OneToMany(targetEntity = Teacher.class,mappedBy = "lessons")
+//	@JoinTable(name="lessons_detain_forteacher",
+//	joinColumns = @JoinColumn(name ="lessons_id",referencedColumnName = "LESSONS_ID"),
+//	inverseJoinColumns = @JoinColumn(name="teacher_id",referencedColumnName = "TEACHER_ID")
+//			)
+	@Column(nullable = false)
 	private List<Teacher> teacher;
 
 

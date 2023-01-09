@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="/Users/furkanturkmen/Desktop"/>
 			<item value="/Users/furkanturkmen/Downloads/078_KatmanliMimari"/>
 			<item value="/Users/furkanturkmen/Desktop/Repository/eclipse/ders"/>
 			<item value="/Users/furkanturkmen/Downloads/Oglen_ApplicationCarDealer/src/main/java/com/december22/entity/Car.java"/>
@@ -47,12 +48,13 @@
 	</section>
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
-			<item value="yzokul"/>
 			<item value="com.furkan"/>
+			<item value="yzokul"/>
 		</list>
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="maraton3"/>
 			<item value="yzokul"/>
 			<item value="okul"/>
 			<item value="gs_34_hibernate_26_12_2022_079benimki"/>

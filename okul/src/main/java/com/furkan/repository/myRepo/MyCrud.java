@@ -29,25 +29,24 @@ public class MyCrud<T> implements MyICrud<T> {
 		criteriaBuilder = entityManager.getCriteriaBuilder();
 	}
 
-	@Override
 	public void openSession() {
 		session = HibernateUtils.getSessionFactory().openSession();
 		transaction = session.beginTransaction();		
 	}
 
-	@Override
+	
 	public void closeSession() {
 		transaction.commit();
 		session.close();		
 	}
 
-	@Override
+	
 	public void closeRollBack() {
 		transaction.rollback();
 		session.close();		
 	}
 
-	@Override
+	
 	public void save(T t) {
 		try {
 			openSession();
@@ -61,7 +60,7 @@ public class MyCrud<T> implements MyICrud<T> {
 		
 	}
 
-	@Override
+	
 	public void update(T t, int id) {
 		try {
 			openSession();
@@ -74,7 +73,7 @@ public class MyCrud<T> implements MyICrud<T> {
 	}		
 	
 
-	@Override
+	
 	public void delete(T t) {
 		try {
 			openSession();
@@ -88,15 +87,12 @@ public class MyCrud<T> implements MyICrud<T> {
 	}
 	
 	
-	@Override
+	
 	public T findById(Class<T> type ,int id) {
 		T entity= null;
 		try {
 			openSession();
-			//String hql= "FROM" + type.getName() +"where";
 			entity=session.find(type, id);
-//			Query query = session.createQuery(hql);
-//			entity=(T) query;
 			closeSession();
 		} catch (Exception e) {
 			System.out.println("find by id hatasi");

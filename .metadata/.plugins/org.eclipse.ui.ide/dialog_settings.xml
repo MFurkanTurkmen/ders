@@ -108,6 +108,9 @@
 		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
 		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="/Users/furkanturkmen/Desktop/JDBC-main/086_TCP_Java_Network_Proje_1"/>
+			<item value="/Users/furkanturkmen/Desktop/JDBC-main/085_TextToSpeech_Projesi"/>
+			<item value="/Users/furkanturkmen/Desktop/JDBC-main/084_Design_Patterns"/>
 			<item value="/Users/furkanturkmen/Downloads/Oglen_HibernateLibraryMS03"/>
 			<item value="/Users/furkanturkmen/Downloads/BilgeAdam_JDBC-main/LibraryMS"/>
 			<item value="/Users/furkanturkmen/Downloads/eclipseworkspaceBOOST/081_hibernate-gui"/>

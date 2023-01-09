@@ -2,7 +2,6 @@ package com.furkan.repository;
 
 import java.util.List;
 import java.util.Optional;
-import java.util.Set;
 
 public interface ICrud<T> {
 

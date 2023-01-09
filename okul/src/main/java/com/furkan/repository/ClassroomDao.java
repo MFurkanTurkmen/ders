@@ -1,42 +1,35 @@
 package com.furkan.repository;
 
-import java.util.List;
-import java.util.Optional;
-import java.util.Set;
+import java.util.*;
 
-import javax.persistence.Query;
 import javax.persistence.TypedQuery;
 
-import org.hibernate.Session;
-import org.hibernate.Transaction;
+import org.hibernate.*;
 
 import com.furkan.entity.Classroom;
+import com.furkan.entity.Student;
 import com.furkan.util.HibernateUtils;
 
 public class ClassroomDao implements ICrud<Classroom> {
 	private Session session;
 	private Transaction transaction;
 
-	@Override
 	public void openSession() {
 		session = HibernateUtils.getSessionFactory().openSession();
 		transaction = session.beginTransaction();
 	}
 
-	@Override
 	public void closeSession() {
 		transaction.commit();
 		session.close();
 	}
 
-	@Override
 	public void closeRollBack() {
 		transaction.rollback();
 		session.close();
 
 	}
 
-	@Override
 	public void save(Classroom t) {
 		try {
 			openSession();
@@ -49,7 +42,6 @@ public class ClassroomDao implements ICrud<Classroom> {
 
 	}
 
-	@Override
 	public void update(int id, Classroom t) {
 		try {
 			openSession();
@@ -64,7 +56,6 @@ public class ClassroomDao implements ICrud<Classroom> {
 
 	}
 
-	@Override
 	public void delete(int id) {
 		Classroom classroom = null;
 		try {
@@ -72,8 +63,10 @@ public class ClassroomDao implements ICrud<Classroom> {
 			classroom = session.find(Classroom.class, id);
 			if (classroom != null) {
 				System.out.println("buldu");
+				for (Student st : classroom.getStudent()) {
+					st.setClassroom(null);
+				}
 				session.delete(classroom);
-				//session.remove(Classroom.class,classroom);
 				System.out.println("sildi");
 			} else {
 				System.out.println("id ile sınıf bulunamadı ve silinemedi");
@@ -86,7 +79,6 @@ public class ClassroomDao implements ICrud<Classroom> {
 
 	}
 
-	@Override
 	public List<Classroom> findAll() {
 		List<Classroom> classroom = null;
 		try {
@@ -108,7 +100,6 @@ public class ClassroomDao implements ICrud<Classroom> {
 		return classroom;
 	}
 
-	@Override
 	public Classroom findByName(String name) {
 		Classroom classroom=null;
 		
@@ -148,7 +139,6 @@ public class ClassroomDao implements ICrud<Classroom> {
 		}
 	}
 
-	@Override
 	public Classroom findById(int id) {
 		Classroom classroom = null;
 		try {
@@ -164,5 +154,28 @@ public class ClassroomDao implements ICrud<Classroom> {
 	}
 	
 	
-
+	public void deleteClass222(int id) {
+		Classroom cl=null;
+		
+		try {
+			openSession();
+			 cl = session.find(Classroom.class, id);
+			 
+			for (Student st : cl.getStudent()) {
+				st.setClassroom(null);
+				}
+			
+				session.delete(cl);
+				closeSession();
+			
+		} catch (Exception e) {
+			System.out.println("hata");
+			
+			closeRollBack();
+		}
+		
+			
+	
+	}
 }
+

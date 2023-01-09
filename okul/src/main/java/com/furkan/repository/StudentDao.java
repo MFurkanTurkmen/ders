@@ -18,27 +18,27 @@ public class StudentDao implements ICrud<Student> {
 	Session session = null;
 	Transaction transaction;
 
-	@Override
+	
 	public void openSession() {
 		session = HibernateUtils.getSessionFactory().openSession();
 		transaction = session.beginTransaction();
 	}
 
-	@Override
+	
 	public void closeSession() {
 		transaction.commit();
 		session.close();
 
 	}
 
-	@Override
+	
 	public void closeRollBack() {
 		transaction.rollback();
 		session.close();
 
 	}
 
-	@Override
+	
 	public void save(Student t) {
 
 		try {
@@ -55,7 +55,7 @@ public class StudentDao implements ICrud<Student> {
 
 	
 	// ---- öğrenciyi genel nesne oluşturarak güncellem---- genel bir güncelleme yapar her şeyi yeniden belirtmemiz gerekir.
-	@Override
+	
 	public void update(int id, Student t) {
 		try {
 			openSession();
@@ -77,7 +77,7 @@ public class StudentDao implements ICrud<Student> {
 			  student.setStudentName(name);
 			  student.setStudentSurname(name);
 			  session.update(student);
-			  transaction.commit();
+			
 			}
 			closeSession();
 			
@@ -92,7 +92,7 @@ public class StudentDao implements ICrud<Student> {
 			openSession();
 			Student student = session.get(Student.class, id);
 			if (student != null) {
-			  student.setClassroom(classroom);
+			student.setClassroom(classroom);
 			  session.update(student);
 
 			}
@@ -104,7 +104,7 @@ public class StudentDao implements ICrud<Student> {
 
 	}
 
-	@Override  		
+	  		
 	public void delete(int id) {
 		Student student = null;
 		try {
@@ -147,7 +147,7 @@ public class StudentDao implements ICrud<Student> {
 	
 	
 	
-	@Override
+	
 	public List<Student> findAll() {
 		List<Student> list= null;
 		try {
@@ -164,7 +164,7 @@ public class StudentDao implements ICrud<Student> {
 		return list;
 	}
 
-	@Override
+	
 	public Student findByName(String name) {
 		Student classroom=null;
 		
@@ -183,7 +183,7 @@ public class StudentDao implements ICrud<Student> {
 	return classroom;
 	}
 
-	@Override
+	
 	public Student findById(int id) {
 		Student student =null;
 		try {
@@ -195,7 +195,7 @@ public class StudentDao implements ICrud<Student> {
 		return student;
 	}
 
-	@Override
+	
 	public Optional<Student> findByNameOptional(String name) {
 		openSession();
 		Student student = null;

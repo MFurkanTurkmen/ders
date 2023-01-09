@@ -4,6 +4,8 @@ import java.util.List;
 
 import javax.persistence.*;
 
+import com.furkan.entity.Enum.EType;
+
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.Getter;
@@ -30,6 +32,8 @@ public class Teacher {
 	
 	private String teacherSurname;
 	
+	private EType type;
+	
 	@NonNull
 	private String mail;
 	
@@ -37,23 +41,42 @@ public class Teacher {
 	private String password;
 	
 
-	@ManyToMany(cascade = CascadeType.ALL)
-	@JoinTable(name = "teacher_detail_forclassroom",
-	joinColumns = @JoinColumn(name="teacher_id",referencedColumnName = "TEACHER_ID"),
-	inverseJoinColumns = @JoinColumn(name="classroom_id",referencedColumnName = "CLASSROOM_ID")
-			)
+	@ManyToMany
+//	@JoinTable(name = "teacher_detail_forclassroom",
+//	joinColumns = @JoinColumn(name="teacher_id",referencedColumnName = "TEACHER_ID"),
+//	inverseJoinColumns = @JoinColumn(name="classroom_id",referencedColumnName = "CLASSROOM_ID")
+//			)
 	private List<Classroom> classroom;
 	
-	@ManyToMany(cascade = CascadeType.ALL)
-	@JoinTable(name = "teacher_detail_forstudent",
-	joinColumns = @JoinColumn(name="teacher_id",referencedColumnName = "TEACHER_ID"),
-	inverseJoinColumns = @JoinColumn(name="student_id",referencedColumnName = "STUDENT_NUMBER")
-			)
+	@ManyToMany
+//	@JoinTable(name = "teacher_detail_forstudent",
+//	joinColumns = @JoinColumn(name="teacher_id",referencedColumnName = "TEACHER_ID"),
+//	inverseJoinColumns = @JoinColumn(name="student_id",referencedColumnName = "STUDENT_NUMBER")
+//			)
+	@Column(nullable = false)
 	private List<Student> student;
 	
-	@ManyToOne(optional = false,targetEntity = Lessons.class)
-	@JoinColumn(name="lessons_id",referencedColumnName = "LESSONS_ID")
+	@ManyToOne(cascade = CascadeType.MERGE)
 	private Lessons lessons;
+
+	public Teacher(String teacherName, String teacherSurname, EType type, String mail, String password) {
+		super();
+		this.teacherName = teacherName;
+		this.teacherSurname = teacherSurname;
+		this.type = type;
+		this.mail = mail;
+		this.password = password;
+	}
+
+	@Override
+	public String toString() {
+		return "Teacher [teacherId=" + teacherId + ", teacherName=" + teacherName + ", teacherSurname=" + teacherSurname
+				+ ", type=" + type + ", mail=" + mail + ", password=" + password + "]";
+	}
+	
+	
+	
+	
 	
 	
 	

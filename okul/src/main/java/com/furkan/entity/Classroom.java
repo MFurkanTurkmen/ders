@@ -38,7 +38,7 @@ public class Classroom {
 //	joinColumns = @JoinColumn(name ="classroom_id",referencedColumnName = "CLASSROOM_ID"),
 //	inverseJoinColumns = @JoinColumn(name="student_id",referencedColumnName = "STUDENT_NUMBER")
 //			)
-	@OneToMany(cascade = CascadeType.REMOVE,mappedBy = "classroom",orphanRemoval = true)
+	@OneToMany(cascade = CascadeType.PERSIST,mappedBy = "classroom")
 	private List<Student> student;
 
 
