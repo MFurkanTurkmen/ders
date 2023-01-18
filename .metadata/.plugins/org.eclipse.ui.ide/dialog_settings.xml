@@ -108,6 +108,9 @@
 		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
 		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="/Users/furkanturkmen/Downloads/Projects-main/Project_Shopping"/>
+			<item value="/Users/furkanturkmen/Downloads/ProductManager-main"/>
+			<item value="/Users/furkanturkmen/Downloads/StudentManagerApp-main"/>
 			<item value="/Users/furkanturkmen/Desktop/JDBC-main/086_TCP_Java_Network_Proje_1"/>
 			<item value="/Users/furkanturkmen/Desktop/JDBC-main/085_TextToSpeech_Projesi"/>
 			<item value="/Users/furkanturkmen/Desktop/JDBC-main/084_Design_Patterns"/>
@@ -130,6 +133,9 @@
 		</list>
 	</section>
 	<section name="NewWizardAction">
+		<item key="NewWizardSelectionPage.STORE_SELECTED_ID" value="org.eclipse.jdt.ui.wizards.JavaProjectWizard"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+		</list>
 	</section>
 	<section name="org.eclipse.ui.dialogs.FilteredResourcesSelectionDialog">
 		<item key="ShowStatusLine" value="true"/>

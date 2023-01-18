@@ -9,6 +9,9 @@ public class Main {
 		otomobilF.createOtomobil(IOtomobil.CABRIO).drive();
 		otomobilF.createOtomobil(IOtomobil.SUV).drive();
 		otomobilF.createOtomobil(IOtomobil.SEDAN).drive();
+		
+		otomobilF.createOtomobil(IOtomobil.CABRIO).drive();
+
 	
 		
 	}
